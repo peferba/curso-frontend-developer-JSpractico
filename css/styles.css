@@ -130,6 +130,10 @@ nav {
     padding: 24px;
     position: absolute;
     top: 60px;
+    width: 100%;
+    left: 0;
+    height: 100%;
+  
   }
   .mobile-menu a {
     text-decoration: none;
@@ -235,7 +239,7 @@ nav {
     height: 50px;
   }
  
-/**/
+/*fin carrito de compras*/
 
 /*PRODUCTOS*/
 .cards-container {
